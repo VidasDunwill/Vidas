@@ -27,6 +27,7 @@ public class Taxx
        System.out.printf("\nPension plan : %.2f", netpay5);
        System.out.printf("\nHealth Insurance : %.2f", Health);
        System.out.printf("\nNetpay : %.2f", netpay);    
+       System.out.printf("\n");
         
         //Running sums
         Scanner b=new Scanner(System.in);
